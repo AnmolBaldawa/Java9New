@@ -1,3 +1,4 @@
 module functionalityOne {
-    exports com.project.functionality1;
+    exports com.project.functionality;
+    requires java.net.http;
 }

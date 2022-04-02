@@ -1,10 +1,10 @@
 package com.project.maincaller;
 
-import com.project.functionality1.Functionality1;
+import com.project.functionality.functionality;
 
 public class MainCaller {
     public static void main(String[] args) {
-        Functionality1 functionality1 = new Functionality1();
-        functionality1.function1();
+        functionality functionality = new functionality();
+        functionality.function1();
     }
 }
